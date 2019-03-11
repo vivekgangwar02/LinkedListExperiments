@@ -12,7 +12,7 @@ class Dnode{
     Dnode(char value,Dnode previous){
         this.value=value;
         this.next=null;
-        this.previous=previous;//dfdf
+        this.previous=previous;//dfd
     }
 }
 
